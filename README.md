@@ -1,24 +1,24 @@
 EucaAdminSDK
-============
+==========
 
 Eucalyptus administration API SDK for java
 
 
 Compile
-========
+======
 This project use marven to build and test, to compile and install the SDK, please install marven in your development
 environment, after install marven. input below command:
 
 1) Build
 
->mvn install -DskipTests
+\# mvn install -DskipTests
 
 2) Test
 
->mvn test
+\# mvn test
 
 How to Use
-==========
+=======
 
 There are 4 classes in this SDK
 
@@ -30,7 +30,7 @@ EucaAdminConsole:        contains all functions for specific administration task
 
 
 Examples
-=========
+=====
 
 Please refer to some examples in this project
 
